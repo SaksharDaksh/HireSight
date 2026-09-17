@@ -1,0 +1,301 @@
+job_id,job_title,job_department,candidate_id,candidate_name,candidate_experience_years,required_experience_years,semantic_score,skill_overlap_score,experience_score,final_score,rank,passed_hard_filters,engine_used
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_01,Aarav Sharma,0,3,0.0,0.82,0.1,0.3304,1,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_02,Priya Patel,0,3,0.0,0.82,0.1,0.2744,2,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_18,Dmitri Ivanov,0,3,0.0,0.76,0.1,0.2552,3,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_20,Siddharth Verma,0,3,0.0,0.76,0.1,0.2552,4,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_13,Liam O'Connor,0,3,0.0,0.5267,0.1,0.2365,5,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_30,Alex Taylor,0,3,0.0,0.7,0.1,0.236,6,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_12,Zainab Khan,0,3,0.0,0.5267,0.1,0.1805,7,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_25,Ananya Chatterjee,0,3,0.0,0.5267,0.1,0.1805,8,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_03,Michael Chang,0,3,0.0,0.35,0.1,0.18,9,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_09,Kwame Mensah,0,3,0.0,0.2933,0.1,0.1619,10,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_07,David Kim,0,3,0.0,0.2333,0.1,0.1427,11,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_11,Carlos Gomez,0,3,0.0,0.3533,0.1,0.1251,12,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_24,Lucas Meyer,0,3,0.0,0.3533,0.1,0.1251,13,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_10,Ananya Sen,0,3,0.0,0.2933,0.1,0.1059,14,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_23,Fatou Ndiaye,0,3,0.0,0.2933,0.1,0.1059,15,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_05,James Henderson,0,3,0.0,0.1167,0.1,0.1053,16,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_04,Elena Rostova,0,3,0.0,0.2367,0.1,0.0877,17,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_06,Fatima Al-Mansoor,0,3,0.0,0.2333,0.1,0.0867,18,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_08,Sophia Martinez,0,3,0.0,0.2333,0.1,0.0867,19,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_17,Rachel Green,0,3,0.0,0.2333,0.1,0.0867,20,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_19,Chloe Dubois,0,3,0.0,0.2333,0.1,0.0867,21,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_21,Hana Takahashi,0,3,0.0,0.2333,0.1,0.0867,22,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_28,Ben Johnson,0,3,0.0,0.2333,0.1,0.0867,23,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_29,Kavita Rao,0,3,0.0,0.1767,0.1,0.0685,24,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_26,Marcus Aurelius Vance,0,3,0.0,0.0,0.1,0.068,25,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_15,Tariq Washington,0,3,0.0,0.1167,0.1,0.0493,26,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_16,Vikram Malhotra,0,3,0.0,0.1167,0.1,0.0493,27,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_22,Gabriel Santos,0,3,0.0,0.1167,0.1,0.0493,28,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_14,Mei Lin,0,3,0.0,0.0,0.1,0.012,29,False,C++17 FastMatcher
+jd_01_ml_engineer,Machine Learning Engineer,AI & Data,res_27,Amina Yusuf,0,3,0.0,0.0,0.1,0.012,30,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_05,James Henderson,0,5,0.0,0.76,0.1,0.3112,1,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_04,Elena Rostova,0,5,0.0,0.88,0.1,0.2936,2,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_29,Kavita Rao,0,5,0.0,0.76,0.1,0.2552,3,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_19,Chloe Dubois,0,5,0.0,0.5833,0.1,0.1987,4,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_01,Aarav Sharma,0,5,0.0,0.1167,0.1,0.1053,5,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_03,Michael Chang,0,5,0.0,0.1167,0.1,0.1053,6,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_07,David Kim,0,5,0.0,0.1167,0.1,0.1053,7,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_09,Kwame Mensah,0,5,0.0,0.1167,0.1,0.1053,8,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_13,Liam O'Connor,0,5,0.0,0.1167,0.1,0.1053,9,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_11,Carlos Gomez,0,5,0.0,0.2367,0.1,0.0877,10,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_24,Lucas Meyer,0,5,0.0,0.2367,0.1,0.0877,11,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_08,Sophia Martinez,0,5,0.0,0.2333,0.1,0.0867,12,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_22,Gabriel Santos,0,5,0.0,0.2333,0.1,0.0867,13,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_02,Priya Patel,0,5,0.0,0.1767,0.1,0.0685,14,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_18,Dmitri Ivanov,0,5,0.0,0.1767,0.1,0.0685,15,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_26,Marcus Aurelius Vance,0,5,0.0,0.0,0.1,0.068,16,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_06,Fatima Al-Mansoor,0,5,0.0,0.1167,0.1,0.0493,17,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_10,Ananya Sen,0,5,0.0,0.1167,0.1,0.0493,18,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_12,Zainab Khan,0,5,0.0,0.1167,0.1,0.0493,19,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_15,Tariq Washington,0,5,0.0,0.1167,0.1,0.0493,20,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_16,Vikram Malhotra,0,5,0.0,0.1167,0.1,0.0493,21,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_17,Rachel Green,0,5,0.0,0.1167,0.1,0.0493,22,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_20,Siddharth Verma,0,5,0.0,0.1167,0.1,0.0493,23,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_21,Hana Takahashi,0,5,0.0,0.1167,0.1,0.0493,24,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_23,Fatou Ndiaye,0,5,0.0,0.1167,0.1,0.0493,25,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_25,Ananya Chatterjee,0,5,0.0,0.1167,0.1,0.0493,26,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_28,Ben Johnson,0,5,0.0,0.1167,0.1,0.0493,27,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_30,Alex Taylor,0,5,0.0,0.1167,0.1,0.0493,28,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_14,Mei Lin,0,5,0.0,0.0,0.1,0.012,29,False,C++17 FastMatcher
+jd_02_backend_lead,Senior Backend Developer,Core Platform,res_27,Amina Yusuf,0,5,0.0,0.0,0.1,0.012,30,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_07,David Kim,0,2,0.0,0.76,0.1,0.3112,1,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_06,Fatima Al-Mansoor,0,2,0.0,0.82,0.1,0.2744,2,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_21,Hana Takahashi,0,2,0.0,0.76,0.1,0.2552,3,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_01,Aarav Sharma,0,2,0.0,0.2933,0.1,0.1619,4,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_13,Liam O'Connor,0,2,0.0,0.2933,0.1,0.1619,5,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_17,Rachel Green,0,2,0.0,0.4667,0.1,0.1613,6,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_12,Zainab Khan,0,2,0.0,0.41,0.1,0.1432,7,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_25,Ananya Chatterjee,0,2,0.0,0.2933,0.1,0.1059,8,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_03,Michael Chang,0,2,0.0,0.1167,0.1,0.1053,9,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_05,James Henderson,0,2,0.0,0.1167,0.1,0.1053,10,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_09,Kwame Mensah,0,2,0.0,0.1167,0.1,0.1053,11,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_02,Priya Patel,0,2,0.0,0.2333,0.1,0.0867,12,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_18,Dmitri Ivanov,0,2,0.0,0.2333,0.1,0.0867,13,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_20,Siddharth Verma,0,2,0.0,0.2333,0.1,0.0867,14,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_28,Ben Johnson,0,2,0.0,0.2333,0.1,0.0867,15,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_30,Alex Taylor,0,2,0.0,0.2333,0.1,0.0867,16,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_26,Marcus Aurelius Vance,0,2,0.0,0.0,0.1,0.068,17,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_04,Elena Rostova,0,2,0.0,0.1167,0.1,0.0493,18,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_08,Sophia Martinez,0,2,0.0,0.1167,0.1,0.0493,19,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_10,Ananya Sen,0,2,0.0,0.1167,0.1,0.0493,20,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_11,Carlos Gomez,0,2,0.0,0.1167,0.1,0.0493,21,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_15,Tariq Washington,0,2,0.0,0.1167,0.1,0.0493,22,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_16,Vikram Malhotra,0,2,0.0,0.1167,0.1,0.0493,23,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_19,Chloe Dubois,0,2,0.0,0.1167,0.1,0.0493,24,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_22,Gabriel Santos,0,2,0.0,0.1167,0.1,0.0493,25,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_23,Fatou Ndiaye,0,2,0.0,0.1167,0.1,0.0493,26,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_24,Lucas Meyer,0,2,0.0,0.1167,0.1,0.0493,27,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_29,Kavita Rao,0,2,0.0,0.1167,0.1,0.0493,28,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_14,Mei Lin,0,2,0.0,0.0,0.1,0.012,29,False,C++17 FastMatcher
+jd_03_data_analyst,Data Analyst (BI & Analytics),Business Intelligence,res_27,Amina Yusuf,0,2,0.0,0.0,0.1,0.012,30,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_08,Sophia Martinez,0,3,0.0,0.82,0.1,0.2744,1,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_22,Gabriel Santos,0,3,0.0,0.7,0.1,0.236,2,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_14,Mei Lin,0,3,0.0,0.4,0.1,0.14,3,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_27,Amina Yusuf,0,3,0.0,0.4,0.1,0.14,4,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_05,James Henderson,0,3,0.0,0.2,0.1,0.132,5,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_01,Aarav Sharma,0,3,0.0,0.16,0.1,0.1192,6,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_03,Michael Chang,0,3,0.0,0.1,0.1,0.1,7,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_07,David Kim,0,3,0.0,0.1,0.1,0.1,8,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_09,Kwame Mensah,0,3,0.0,0.1,0.1,0.1,9,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_13,Liam O'Connor,0,3,0.0,0.1,0.1,0.1,10,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_19,Chloe Dubois,0,3,0.0,0.26,0.1,0.0952,11,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_04,Elena Rostova,0,3,0.0,0.2,0.1,0.076,12,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_28,Ben Johnson,0,3,0.0,0.2,0.1,0.076,13,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_29,Kavita Rao,0,3,0.0,0.2,0.1,0.076,14,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_26,Marcus Aurelius Vance,0,3,0.0,0.0,0.1,0.068,15,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_02,Priya Patel,0,3,0.0,0.16,0.1,0.0632,16,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_11,Carlos Gomez,0,3,0.0,0.16,0.1,0.0632,17,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_18,Dmitri Ivanov,0,3,0.0,0.16,0.1,0.0632,18,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_20,Siddharth Verma,0,3,0.0,0.16,0.1,0.0632,19,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_24,Lucas Meyer,0,3,0.0,0.16,0.1,0.0632,20,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_30,Alex Taylor,0,3,0.0,0.16,0.1,0.0632,21,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_06,Fatima Al-Mansoor,0,3,0.0,0.1,0.1,0.044,22,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_10,Ananya Sen,0,3,0.0,0.1,0.1,0.044,23,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_12,Zainab Khan,0,3,0.0,0.1,0.1,0.044,24,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_15,Tariq Washington,0,3,0.0,0.1,0.1,0.044,25,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_16,Vikram Malhotra,0,3,0.0,0.1,0.1,0.044,26,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_17,Rachel Green,0,3,0.0,0.1,0.1,0.044,27,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_21,Hana Takahashi,0,3,0.0,0.1,0.1,0.044,28,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_23,Fatou Ndiaye,0,3,0.0,0.1,0.1,0.044,29,False,C++17 FastMatcher
+jd_04_fullstack_dev,Full Stack Engineer,Product Engineering,res_25,Ananya Chatterjee,0,3,0.0,0.1,0.1,0.044,30,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_09,Kwame Mensah,0,4,0.0,0.82,0.1,0.3304,1,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_10,Ananya Sen,0,4,0.0,0.82,0.1,0.2744,2,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_23,Fatou Ndiaye,0,4,0.0,0.76,0.1,0.2552,3,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_01,Aarav Sharma,0,4,0.0,0.2933,0.1,0.1619,4,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_03,Michael Chang,0,4,0.0,0.2333,0.1,0.1427,5,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_20,Siddharth Verma,0,4,0.0,0.2933,0.1,0.1059,6,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_05,James Henderson,0,4,0.0,0.1167,0.1,0.1053,7,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_07,David Kim,0,4,0.0,0.1167,0.1,0.1053,8,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_13,Liam O'Connor,0,4,0.0,0.1167,0.1,0.1053,9,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_26,Marcus Aurelius Vance,0,4,0.0,0.06,0.1,0.0872,10,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_02,Priya Patel,0,4,0.0,0.2333,0.1,0.0867,11,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_18,Dmitri Ivanov,0,4,0.0,0.2333,0.1,0.0867,12,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_30,Alex Taylor,0,4,0.0,0.2333,0.1,0.0867,13,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_16,Vikram Malhotra,0,4,0.0,0.1767,0.1,0.0685,14,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_04,Elena Rostova,0,4,0.0,0.1167,0.1,0.0493,15,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_06,Fatima Al-Mansoor,0,4,0.0,0.1167,0.1,0.0493,16,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_08,Sophia Martinez,0,4,0.0,0.1167,0.1,0.0493,17,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_11,Carlos Gomez,0,4,0.0,0.1167,0.1,0.0493,18,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_12,Zainab Khan,0,4,0.0,0.1167,0.1,0.0493,19,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_17,Rachel Green,0,4,0.0,0.1167,0.1,0.0493,20,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_19,Chloe Dubois,0,4,0.0,0.1167,0.1,0.0493,21,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_21,Hana Takahashi,0,4,0.0,0.1167,0.1,0.0493,22,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_22,Gabriel Santos,0,4,0.0,0.1167,0.1,0.0493,23,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_24,Lucas Meyer,0,4,0.0,0.1167,0.1,0.0493,24,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_25,Ananya Chatterjee,0,4,0.0,0.1167,0.1,0.0493,25,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_28,Ben Johnson,0,4,0.0,0.1167,0.1,0.0493,26,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_29,Kavita Rao,0,4,0.0,0.1167,0.1,0.0493,27,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_14,Mei Lin,0,4,0.0,0.0,0.1,0.012,28,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_15,Tariq Washington,0,4,0.0,0.0,0.1,0.012,29,False,C++17 FastMatcher
+jd_05_nlp_engineer,NLP / LLM Research Engineer,Applied Research,res_27,Amina Yusuf,0,4,0.0,0.0,0.1,0.012,30,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_11,Carlos Gomez,0,3,0.0,0.82,0.1,0.2744,1,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_24,Lucas Meyer,0,3,0.0,0.76,0.1,0.2552,2,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_01,Aarav Sharma,0,3,0.0,0.1767,0.1,0.1245,3,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_02,Priya Patel,0,3,0.0,0.2933,0.1,0.1059,4,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_04,Elena Rostova,0,3,0.0,0.2933,0.1,0.1059,5,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_18,Dmitri Ivanov,0,3,0.0,0.2933,0.1,0.1059,6,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_26,Marcus Aurelius Vance,0,3,0.0,0.1167,0.1,0.1053,7,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_03,Michael Chang,0,3,0.0,0.06,0.1,0.0872,8,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_05,James Henderson,0,3,0.0,0.06,0.1,0.0872,9,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_07,David Kim,0,3,0.0,0.06,0.1,0.0872,10,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_09,Kwame Mensah,0,3,0.0,0.06,0.1,0.0872,11,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_13,Liam O'Connor,0,3,0.0,0.06,0.1,0.0872,12,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_08,Sophia Martinez,0,3,0.0,0.1767,0.1,0.0685,13,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_16,Vikram Malhotra,0,3,0.0,0.1767,0.1,0.0685,14,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_19,Chloe Dubois,0,3,0.0,0.1767,0.1,0.0685,15,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_20,Siddharth Verma,0,3,0.0,0.1767,0.1,0.0685,16,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_29,Kavita Rao,0,3,0.0,0.1767,0.1,0.0685,17,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_30,Alex Taylor,0,3,0.0,0.1767,0.1,0.0685,18,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_15,Tariq Washington,0,3,0.0,0.1167,0.1,0.0493,19,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_06,Fatima Al-Mansoor,0,3,0.0,0.06,0.1,0.0312,20,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_10,Ananya Sen,0,3,0.0,0.06,0.1,0.0312,21,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_12,Zainab Khan,0,3,0.0,0.06,0.1,0.0312,22,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_17,Rachel Green,0,3,0.0,0.06,0.1,0.0312,23,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_21,Hana Takahashi,0,3,0.0,0.06,0.1,0.0312,24,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_22,Gabriel Santos,0,3,0.0,0.06,0.1,0.0312,25,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_23,Fatou Ndiaye,0,3,0.0,0.06,0.1,0.0312,26,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_25,Ananya Chatterjee,0,3,0.0,0.06,0.1,0.0312,27,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_28,Ben Johnson,0,3,0.0,0.06,0.1,0.0312,28,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_14,Mei Lin,0,3,0.0,0.0,0.1,0.012,29,False,C++17 FastMatcher
+jd_06_devops_engineer,DevOps & Cloud Engineer,Infrastructure,res_27,Amina Yusuf,0,3,0.0,0.0,0.1,0.012,30,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_13,Liam O'Connor,0,5,0.0,0.76,0.1,0.3112,1,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_01,Aarav Sharma,0,5,0.0,0.6,0.1,0.26,2,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_12,Zainab Khan,0,5,0.0,0.76,0.1,0.2552,3,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_25,Ananya Chatterjee,0,5,0.0,0.76,0.1,0.2552,4,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_02,Priya Patel,0,5,0.0,0.4,0.1,0.14,5,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_18,Dmitri Ivanov,0,5,0.0,0.4,0.1,0.14,6,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_20,Siddharth Verma,0,5,0.0,0.4,0.1,0.14,7,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_30,Alex Taylor,0,5,0.0,0.4,0.1,0.14,8,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_03,Michael Chang,0,5,0.0,0.2,0.1,0.132,9,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_07,David Kim,0,5,0.0,0.2,0.1,0.132,10,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_06,Fatima Al-Mansoor,0,5,0.0,0.3,0.1,0.108,11,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_05,James Henderson,0,5,0.0,0.1,0.1,0.1,12,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_09,Kwame Mensah,0,5,0.0,0.1,0.1,0.1,13,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_17,Rachel Green,0,5,0.0,0.2,0.1,0.076,14,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_21,Hana Takahashi,0,5,0.0,0.2,0.1,0.076,15,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_28,Ben Johnson,0,5,0.0,0.2,0.1,0.076,16,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_26,Marcus Aurelius Vance,0,5,0.0,0.0,0.1,0.068,17,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_04,Elena Rostova,0,5,0.0,0.1,0.1,0.044,18,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_08,Sophia Martinez,0,5,0.0,0.1,0.1,0.044,19,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_10,Ananya Sen,0,5,0.0,0.1,0.1,0.044,20,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_11,Carlos Gomez,0,5,0.0,0.1,0.1,0.044,21,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_15,Tariq Washington,0,5,0.0,0.1,0.1,0.044,22,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_16,Vikram Malhotra,0,5,0.0,0.1,0.1,0.044,23,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_19,Chloe Dubois,0,5,0.0,0.1,0.1,0.044,24,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_22,Gabriel Santos,0,5,0.0,0.1,0.1,0.044,25,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_23,Fatou Ndiaye,0,5,0.0,0.1,0.1,0.044,26,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_24,Lucas Meyer,0,5,0.0,0.1,0.1,0.044,27,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_29,Kavita Rao,0,5,0.0,0.1,0.1,0.044,28,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_14,Mei Lin,0,5,0.0,0.0,0.1,0.012,29,False,C++17 FastMatcher
+jd_07_data_scientist,Lead Data Scientist,Data Science,res_27,Amina Yusuf,0,5,0.0,0.0,0.1,0.012,30,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_14,Mei Lin,0,2,0.0,0.82,0.1,0.2744,1,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_27,Amina Yusuf,0,2,0.0,0.7,0.1,0.236,2,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_08,Sophia Martinez,0,2,0.0,0.62,0.1,0.2104,3,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_22,Gabriel Santos,0,2,0.0,0.56,0.1,0.1912,4,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_01,Aarav Sharma,0,2,0.0,0.0,0.1,0.068,5,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_03,Michael Chang,0,2,0.0,0.0,0.1,0.068,6,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_05,James Henderson,0,2,0.0,0.0,0.1,0.068,7,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_07,David Kim,0,2,0.0,0.0,0.1,0.068,8,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_09,Kwame Mensah,0,2,0.0,0.0,0.1,0.068,9,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_13,Liam O'Connor,0,2,0.0,0.0,0.1,0.068,10,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_26,Marcus Aurelius Vance,0,2,0.0,0.0,0.1,0.068,11,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_02,Priya Patel,0,2,0.0,0.0,0.1,0.012,12,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_04,Elena Rostova,0,2,0.0,0.0,0.1,0.012,13,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_06,Fatima Al-Mansoor,0,2,0.0,0.0,0.1,0.012,14,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_10,Ananya Sen,0,2,0.0,0.0,0.1,0.012,15,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_11,Carlos Gomez,0,2,0.0,0.0,0.1,0.012,16,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_12,Zainab Khan,0,2,0.0,0.0,0.1,0.012,17,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_15,Tariq Washington,0,2,0.0,0.0,0.1,0.012,18,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_16,Vikram Malhotra,0,2,0.0,0.0,0.1,0.012,19,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_17,Rachel Green,0,2,0.0,0.0,0.1,0.012,20,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_18,Dmitri Ivanov,0,2,0.0,0.0,0.1,0.012,21,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_19,Chloe Dubois,0,2,0.0,0.0,0.1,0.012,22,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_20,Siddharth Verma,0,2,0.0,0.0,0.1,0.012,23,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_21,Hana Takahashi,0,2,0.0,0.0,0.1,0.012,24,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_23,Fatou Ndiaye,0,2,0.0,0.0,0.1,0.012,25,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_24,Lucas Meyer,0,2,0.0,0.0,0.1,0.012,26,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_25,Ananya Chatterjee,0,2,0.0,0.0,0.1,0.012,27,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_28,Ben Johnson,0,2,0.0,0.0,0.1,0.012,28,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_29,Kavita Rao,0,2,0.0,0.0,0.1,0.012,29,False,C++17 FastMatcher
+jd_08_frontend_dev,Frontend UI/UX Developer,Design & UI,res_30,Alex Taylor,0,2,0.0,0.0,0.1,0.012,30,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_15,Tariq Washington,0,4,0.0,0.82,0.1,0.2744,1,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_28,Ben Johnson,0,4,0.0,0.76,0.1,0.2552,2,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_01,Aarav Sharma,0,4,0.0,0.2,0.1,0.132,3,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_07,David Kim,0,4,0.0,0.2,0.1,0.132,4,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_13,Liam O'Connor,0,4,0.0,0.2,0.1,0.132,5,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_05,James Henderson,0,4,0.0,0.12,0.1,0.1064,6,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_03,Michael Chang,0,4,0.0,0.06,0.1,0.0872,7,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_09,Kwame Mensah,0,4,0.0,0.06,0.1,0.0872,8,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_26,Marcus Aurelius Vance,0,4,0.0,0.06,0.1,0.0872,9,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_02,Priya Patel,0,4,0.0,0.2,0.1,0.076,10,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_06,Fatima Al-Mansoor,0,4,0.0,0.2,0.1,0.076,11,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_08,Sophia Martinez,0,4,0.0,0.2,0.1,0.076,12,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_12,Zainab Khan,0,4,0.0,0.2,0.1,0.076,13,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_17,Rachel Green,0,4,0.0,0.2,0.1,0.076,14,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_18,Dmitri Ivanov,0,4,0.0,0.2,0.1,0.076,15,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_20,Siddharth Verma,0,4,0.0,0.2,0.1,0.076,16,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_21,Hana Takahashi,0,4,0.0,0.2,0.1,0.076,17,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_22,Gabriel Santos,0,4,0.0,0.2,0.1,0.076,18,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_25,Ananya Chatterjee,0,4,0.0,0.2,0.1,0.076,19,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_30,Alex Taylor,0,4,0.0,0.2,0.1,0.076,20,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_04,Elena Rostova,0,4,0.0,0.12,0.1,0.0504,21,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_11,Carlos Gomez,0,4,0.0,0.12,0.1,0.0504,22,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_16,Vikram Malhotra,0,4,0.0,0.12,0.1,0.0504,23,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_19,Chloe Dubois,0,4,0.0,0.12,0.1,0.0504,24,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_24,Lucas Meyer,0,4,0.0,0.12,0.1,0.0504,25,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_29,Kavita Rao,0,4,0.0,0.12,0.1,0.0504,26,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_10,Ananya Sen,0,4,0.0,0.06,0.1,0.0312,27,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_23,Fatou Ndiaye,0,4,0.0,0.06,0.1,0.0312,28,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_14,Mei Lin,0,4,0.0,0.0,0.1,0.012,29,False,C++17 FastMatcher
+jd_09_database_admin,Database Engineer / MySQL Administrator,Database Systems,res_27,Amina Yusuf,0,4,0.0,0.0,0.1,0.012,30,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_26,Marcus Aurelius Vance,0,3,0.0,0.7,0.1,0.292,1,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_16,Vikram Malhotra,0,3,0.0,0.82,0.1,0.2744,2,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_01,Aarav Sharma,0,3,0.0,0.06,0.1,0.0872,3,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_03,Michael Chang,0,3,0.0,0.06,0.1,0.0872,4,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_05,James Henderson,0,3,0.0,0.06,0.1,0.0872,5,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_07,David Kim,0,3,0.0,0.06,0.1,0.0872,6,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_09,Kwame Mensah,0,3,0.0,0.06,0.1,0.0872,7,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_13,Liam O'Connor,0,3,0.0,0.06,0.1,0.0872,8,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_10,Ananya Sen,0,3,0.0,0.2,0.1,0.076,9,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_11,Carlos Gomez,0,3,0.0,0.2,0.1,0.076,10,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_24,Lucas Meyer,0,3,0.0,0.2,0.1,0.076,11,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_15,Tariq Washington,0,3,0.0,0.14,0.1,0.0568,12,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_02,Priya Patel,0,3,0.0,0.06,0.1,0.0312,13,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_04,Elena Rostova,0,3,0.0,0.06,0.1,0.0312,14,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_06,Fatima Al-Mansoor,0,3,0.0,0.06,0.1,0.0312,15,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_08,Sophia Martinez,0,3,0.0,0.06,0.1,0.0312,16,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_12,Zainab Khan,0,3,0.0,0.06,0.1,0.0312,17,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_17,Rachel Green,0,3,0.0,0.06,0.1,0.0312,18,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_18,Dmitri Ivanov,0,3,0.0,0.06,0.1,0.0312,19,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_19,Chloe Dubois,0,3,0.0,0.06,0.1,0.0312,20,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_20,Siddharth Verma,0,3,0.0,0.06,0.1,0.0312,21,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_21,Hana Takahashi,0,3,0.0,0.06,0.1,0.0312,22,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_22,Gabriel Santos,0,3,0.0,0.06,0.1,0.0312,23,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_23,Fatou Ndiaye,0,3,0.0,0.06,0.1,0.0312,24,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_25,Ananya Chatterjee,0,3,0.0,0.06,0.1,0.0312,25,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_28,Ben Johnson,0,3,0.0,0.06,0.1,0.0312,26,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_29,Kavita Rao,0,3,0.0,0.06,0.1,0.0312,27,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_30,Alex Taylor,0,3,0.0,0.06,0.1,0.0312,28,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_14,Mei Lin,0,3,0.0,0.0,0.1,0.012,29,False,C++17 FastMatcher
+jd_10_cpp_systems_dev,C++ High Performance Systems Engineer,Low Latency Core,res_27,Amina Yusuf,0,3,0.0,0.0,0.1,0.012,30,False,C++17 FastMatcher

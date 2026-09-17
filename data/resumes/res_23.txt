@@ -1,0 +1,14 @@
+Candidate Name: Fatou Ndiaye
+Pronouns: she/her
+Education: Master from Cheikh Anta Diop University
+Years of Experience: 4
+Contact: fatou.n@example.com
+
+Professional Summary:
+NLP researcher with 4 years creating semantic search and RAG retrieval pipelines using open-source language models.
+
+Key Technical Skills:
+Python, PyTorch, Transformers, NLP, HuggingFace, RAG, FastAPI
+
+Work Experience:
+- NLP Engineer at AfriAI (4 years)

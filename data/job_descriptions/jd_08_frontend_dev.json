@@ -1,0 +1,23 @@
+{
+  "id": "jd_08_frontend_dev",
+  "title": "Frontend UI/UX Developer",
+  "company": "PixelCraft Studio",
+  "department": "Design & UI",
+  "min_years_experience": 2,
+  "degree_required": "Bachelor",
+  "required_skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Responsive Design"
+  ],
+  "preferred_skills": [
+    "Figma",
+    "Tailwind CSS",
+    "TypeScript",
+    "Web Performance",
+    "Accessibility"
+  ],
+  "description": "Join PixelCraft to build beautiful, accessible, and responsive user experiences. Requires 2+ years of experience writing modular JavaScript, semantic HTML5, modern CSS styling, and component architectures in React."
+}

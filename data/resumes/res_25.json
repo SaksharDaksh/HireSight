@@ -1,0 +1,28 @@
+{
+  "id": "res_25",
+  "candidate_name": "Ananya Chatterjee",
+  "gender_indicator": "she/her",
+  "years_experience": 5,
+  "degree": "Master",
+  "institution": "Jadavpur University",
+  "email": "ananya.c@example.com",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Scikit-Learn",
+    "XGBoost",
+    "SHAP",
+    "Pandas",
+    "SQL",
+    "SMOTE"
+  ],
+  "summary": "Data Scientist with 5 years developing XGBoost risk models, explaining feature attributions with SHAP, and balancing classes.",
+  "past_roles": [
+    {
+      "title": "Data Scientist",
+      "company": "FinPulse",
+      "duration_years": 5
+    }
+  ],
+  "target_role": "Lead Data Scientist"
+}

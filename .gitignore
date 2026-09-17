@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C++ build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# SQLite local databases
+*.db
+data/app_database.db
+
+# Temporary uploads (keep folder structure)
+uploads/*
+!uploads/.gitkeep
+
+# Virtual Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store

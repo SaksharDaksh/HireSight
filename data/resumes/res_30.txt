@@ -1,0 +1,14 @@
+Candidate Name: Alex Taylor
+Pronouns: they/them
+Education: Bachelor from University of Washington
+Years of Experience: 3
+Contact: alex.taylor@example.com
+
+Professional Summary:
+ML Engineer with 3 years building predictive models, training pipelines, and microservice containers in Docker.
+
+Key Technical Skills:
+Python, PyTorch, Scikit-Learn, Docker, Machine Learning, SQL
+
+Work Experience:
+- ML Engineer at VectorTech (3 years)

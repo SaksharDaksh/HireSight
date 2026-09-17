@@ -1,0 +1,24 @@
+{
+  "id": "jd_03_data_analyst",
+  "title": "Data Analyst (BI & Analytics)",
+  "company": "RetailPulse Global",
+  "department": "Business Intelligence",
+  "min_years_experience": 2,
+  "degree_required": "Bachelor",
+  "required_skills": [
+    "SQL",
+    "Power BI",
+    "Excel",
+    "Python",
+    "Data Visualization",
+    "EDA"
+  ],
+  "preferred_skills": [
+    "Tableau",
+    "DAX",
+    "Pandas",
+    "Statistical Testing",
+    "ETL"
+  ],
+  "description": "RetailPulse is seeking a detail-oriented Data Analyst to uncover actionable business insights. Requirements include at least 2 years of experience with advanced SQL queries, Power BI dashboard development, Excel financial modeling, and Python for exploratory data analysis (EDA). Strong communication and visualization skills required."
+}

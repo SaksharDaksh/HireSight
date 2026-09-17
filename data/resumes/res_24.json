@@ -1,0 +1,27 @@
+{
+  "id": "res_24",
+  "candidate_name": "Lucas Meyer",
+  "gender_indicator": "he/him",
+  "years_experience": 5,
+  "degree": "Bachelor",
+  "institution": "TU Munich",
+  "email": "lucas.m@example.com",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CI/CD",
+    "Linux",
+    "Python"
+  ],
+  "summary": "DevOps Engineer with 5 years managing cloud deployments, Terraform infrastructure modules, and container orchestration.",
+  "past_roles": [
+    {
+      "title": "Senior DevOps",
+      "company": "Bavaria Cloud",
+      "duration_years": 5
+    }
+  ],
+  "target_role": "DevOps & Cloud Engineer"
+}

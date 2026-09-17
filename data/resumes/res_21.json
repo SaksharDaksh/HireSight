@@ -1,0 +1,27 @@
+{
+  "id": "res_21",
+  "candidate_name": "Hana Takahashi",
+  "gender_indicator": "she/her",
+  "years_experience": 4,
+  "degree": "Bachelor",
+  "institution": "University of Tokyo",
+  "email": "hana.t@example.com",
+  "skills": [
+    "SQL",
+    "Power BI",
+    "Excel",
+    "Python",
+    "Data Visualization",
+    "EDA",
+    "DAX"
+  ],
+  "summary": "Data Analyst with 4 years designing executive Power BI dashboards, automated SQL reports, and exploratory statistical analysis.",
+  "past_roles": [
+    {
+      "title": "Lead BI Analyst",
+      "company": "Tokyo Data Co",
+      "duration_years": 4
+    }
+  ],
+  "target_role": "Data Analyst (BI & Analytics)"
+}

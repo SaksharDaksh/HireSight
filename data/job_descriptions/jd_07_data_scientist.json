@@ -1,0 +1,25 @@
+{
+  "id": "jd_07_data_scientist",
+  "title": "Lead Data Scientist",
+  "company": "Predictive Health Systems",
+  "department": "Data Science",
+  "min_years_experience": 5,
+  "degree_required": "Master",
+  "required_skills": [
+    "Python",
+    "Machine Learning",
+    "Scikit-Learn",
+    "XGBoost",
+    "SHAP",
+    "Pandas",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "SMOTE",
+    "Healthcare Domain",
+    "Deep Learning",
+    "A/B Testing",
+    "Feature Store"
+  ],
+  "description": "Seeking a Lead Data Scientist to build predictive models for patient diagnostics. Minimum 5 years of experience in supervised learning, tree-based models (XGBoost, LightGBM), model explainability using SHAP, handling imbalanced datasets using SMOTE, and scientific Python stack."
+}

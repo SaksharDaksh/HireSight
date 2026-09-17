@@ -1,0 +1,14 @@
+Candidate Name: Ben Johnson
+Pronouns: he/him
+Education: Bachelor from Community College of Tech
+Years of Experience: 5
+Contact: ben.j@example.com
+
+Professional Summary:
+Self-driven database specialist with 5 years managing MySQL instances, performance tuning indexes, and query refactoring.
+
+Key Technical Skills:
+MySQL, SQL, Database Optimization, Indexing, Backup & Recovery, Python
+
+Work Experience:
+- Database Admin at OmniServer (5 years)

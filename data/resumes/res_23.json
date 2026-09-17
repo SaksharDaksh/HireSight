@@ -1,0 +1,27 @@
+{
+  "id": "res_23",
+  "candidate_name": "Fatou Ndiaye",
+  "gender_indicator": "she/her",
+  "years_experience": 4,
+  "degree": "Master",
+  "institution": "Cheikh Anta Diop University",
+  "email": "fatou.n@example.com",
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "NLP",
+    "HuggingFace",
+    "RAG",
+    "FastAPI"
+  ],
+  "summary": "NLP researcher with 4 years creating semantic search and RAG retrieval pipelines using open-source language models.",
+  "past_roles": [
+    {
+      "title": "NLP Engineer",
+      "company": "AfriAI",
+      "duration_years": 4
+    }
+  ],
+  "target_role": "NLP / LLM Research Engineer"
+}

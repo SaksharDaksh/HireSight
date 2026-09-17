@@ -1,0 +1,41 @@
+{
+  "id": "res_uploaded_2629",
+  "candidate_name": "Sakshar Daksh",
+  "email": "Sakshardaksh04@gmail.com",
+  "phone": "+91 9582813392",
+  "years_of_experience": 0,
+  "skills": [
+    "C++",
+    "CSS",
+    "Data Visualization",
+    "EDA",
+    "Excel",
+    "FastAPI",
+    "Flask",
+    "Git",
+    "GitHub",
+    "HTML",
+    "JavaScript",
+    "Machine Learning",
+    "Matplotlib",
+    "MySQL",
+    "NumPy",
+    "Pandas",
+    "Power BI",
+    "Python",
+    "REST APIs",
+    "SHAP",
+    "SMOTE",
+    "SQL",
+    "Scikit-Learn",
+    "XGBoost"
+  ],
+  "education": {
+    "degree": "Bachelor",
+    "field": "Computer Science / Engineering",
+    "institution": "Excel\nEDUCATION\nBirla Institute"
+  },
+  "past_roles": [],
+  "certifications": [],
+  "raw_text": "Sakshar Daksh\nLinkedIn|GitHub|CodolioLocation:Greater Noida, Uttar Pradesh\nEmail:Sakshardaksh04@gmail.com\nMobile:+91 9582813392\nSUMMARY\nCS undergrad experienced in building full-stack and ML-driven applications using Python, C++, and SQL. Focused on writing\nclean, maintainable code and shipping production-ready, deployed projects.\nTECHNICAL SKILLS\nProgramming Languages: C++, Python, SQL (MySQL)\nMachine Learning & DS: Scikit-learn, XGBoost, SHAP (Model Explainability), Pandas, NumPy, SMOTE, EDA\nData Visualization: Power BI, Matplotlib\nWeb Development: Flask, FastAPI, REST APIs, HTML, CSS, JavaScript\nTools & Platforms: Git, GitHub, Jupyter Notebook, Excel\nEDUCATION\nBirla Institute of Technology, Mesra 2023 \u2013 2027\nBachelor of Technology in Computer ScienceCGPA: 8.28/10 (6 semesters)\nRyan International School, Ghaziabad 2022\nSenior Secondary (XII) Percentage: 98%\nEXPERIENCE\nResearch Intern May 2026 \u2013 July 2026\nBirla Institute of Technology, Mesra (BIT Mesra)GitHub Repo |Live Demo\n\u2022Researched Just-In-Time Software Defect Prediction using the ApacheJIT dataset to identify potentially bug-prone software\ncommits through machine learning.\n\u2022Implemented and evaluated Logistic Regression, Random Forest, and XGBoost models for defect classification using ROC-\nAUC, precision, recall, and F1-score.\n\u2022Integrated SHAP for explainable AI to interpret model predictions and identify software metrics contributing to defect-risk\nassessments.\n\u2022Developed and deployed a full-stack React\u2013Flask web application with GitHub REST API integration for pull-request analysis,\nprediction visualization, and repository insights.\nPROJECTS\nDrop Deck \u2013 Live Sneaker Sales Analytics PlatformJuly 2026\nFull-Stack \u2022 Python, FastAPI, MySQL, Streamlit, PlotlyGitHub Repo\n\u2022Built a full-stack, real-time analytics platform simulating live sneaker sales across 18 SKUs and 8 brands, with a FastAPI\nbackend ingesting transactions into MySQL via REST API.\n\u2022Designed a relational schema and wrote SQL aggregation queries (joins, GROUP BY) powering 5 live KPI endpoints, visualized\nin an auto-refreshing Plotly/Streamlit dashboard.\n\u2022Debugged a SQLAlchemy query ambiguity bug affecting multi-table aggregations, ensuring accurate real-time data.\nMedistats \u2013 Brand vs. Generic Drug Price Analysis2026\nMachine Learning \u2022 Python, XGBoost, SHAP , StreamlitGitHub Repo\n\u2022Analyzed brand-vs-generic drug pricing across 168 medicines and 52 generics using real Indian pharmaceutical data (NLEM,\nJan Aushadhi, 1mg.com).\n\u2022Built an explainable XGBoost classifier (0.812 ROC-AUC) to detect high-markup medicines, using SHAP to identify pack size,\nNLEM status, and manufacturer as top drivers.\n\u2022Flagged pricing anomalies using IQR, Z-score, and Isolation Forest, visualized through an interactive Streamlit dashboard.\nACHIEVEMENTS\n\u2022Participated inGoogle Solutions Challenge 2025.\n\u2022Finished inTop 10at Hackfest, IIT (ISM) Dhanbad.\n\u2022AwardedScience stream topper, Physics topper, and Chemistry topperin 12th class.\nEXTRACURRICULARS\n\u2022President of the Photographic Societyat BIT Mesra (2026\u20132027).\n\u2022Head Photographerat BITMUN 2026 and AGRANI MUN (DPS Bokaro) 2026.\n\u2022Officer In Charge (Logistics and Resources)at BITMUN 2025."
+}

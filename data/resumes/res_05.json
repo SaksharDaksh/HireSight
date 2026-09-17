@@ -1,0 +1,27 @@
+{
+  "id": "res_05",
+  "candidate_name": "James Henderson",
+  "gender_indicator": "he/him",
+  "years_experience": 7,
+  "degree": "Bachelor",
+  "institution": "Harvard University",
+  "email": "j.henderson@example.com",
+  "skills": [
+    "Python",
+    "Flask",
+    "PostgreSQL",
+    "REST APIs",
+    "Redis",
+    "Microservices",
+    "System Design"
+  ],
+  "summary": "Harvard alumnus with 7 years of backend development using Python, Flask, and PostgreSQL for enterprise banking platforms.",
+  "past_roles": [
+    {
+      "title": "Senior Systems Engineer",
+      "company": "Apex Financial",
+      "duration_years": 7
+    }
+  ],
+  "target_role": "Senior Backend Developer"
+}

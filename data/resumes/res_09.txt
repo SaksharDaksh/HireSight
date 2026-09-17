@@ -1,0 +1,14 @@
+Candidate Name: Kwame Mensah
+Pronouns: he/him
+Education: Master from Oxford University
+Years of Experience: 5
+Contact: kwame.m@example.com
+
+Professional Summary:
+Oxford graduate with 5 years leading NLP research and LLM fine-tuning pipelines. Deep expertise in RAG and vector retrieval.
+
+Key Technical Skills:
+Python, PyTorch, Transformers, NLP, HuggingFace, RAG, Vector Databases, FastAPI
+
+Work Experience:
+- NLP Scientist at LexiCore (5 years)

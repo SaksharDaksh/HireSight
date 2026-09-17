@@ -1,0 +1,23 @@
+{
+  "id": "jd_10_cpp_systems_dev",
+  "title": "C++ High Performance Systems Engineer",
+  "company": "UltraLatency Trading",
+  "department": "Low Latency Core",
+  "min_years_experience": 3,
+  "degree_required": "Bachelor",
+  "required_skills": [
+    "C++",
+    "Data Structures",
+    "Algorithms",
+    "Multithreading",
+    "Linux"
+  ],
+  "preferred_skills": [
+    "Network Programming",
+    "Memory Management",
+    "C++20",
+    "Python",
+    "CMake"
+  ],
+  "description": "Seeking a C++ engineer for low-latency, multi-threaded algorithm acceleration and core matching engines. Must demonstrate deep knowledge of C++ modern standards, memory layout, cache optimization, and concurrent programming."
+}

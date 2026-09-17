@@ -1,0 +1,27 @@
+{
+  "id": "res_29",
+  "candidate_name": "Kavita Rao",
+  "gender_indicator": "she/her",
+  "years_experience": 5,
+  "degree": "Master",
+  "institution": "National Institute of Tech",
+  "email": "kavita.rao@example.com",
+  "skills": [
+    "Python",
+    "Flask",
+    "PostgreSQL",
+    "Redis",
+    "Microservices",
+    "REST APIs",
+    "AWS"
+  ],
+  "summary": "Backend specialist with 5 years developing REST APIs in Python/Flask with Redis caching and PostgreSQL persistence.",
+  "past_roles": [
+    {
+      "title": "Backend Architect",
+      "company": "ZetaCore",
+      "duration_years": 5
+    }
+  ],
+  "target_role": "Senior Backend Developer"
+}

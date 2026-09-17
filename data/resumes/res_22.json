@@ -1,0 +1,27 @@
+{
+  "id": "res_22",
+  "candidate_name": "Gabriel Santos",
+  "gender_indicator": "he/him",
+  "years_experience": 3,
+  "degree": "Bachelor",
+  "institution": "University of Sao Paulo",
+  "email": "gabriel.s@example.com",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Python",
+    "HTML",
+    "CSS",
+    "REST APIs",
+    "MySQL"
+  ],
+  "summary": "Full Stack developer with 3 years of experience shipping web apps with React frontend and Python MySQL services.",
+  "past_roles": [
+    {
+      "title": "Full Stack Engineer",
+      "company": "BrasilTech",
+      "duration_years": 3
+    }
+  ],
+  "target_role": "Full Stack Engineer"
+}

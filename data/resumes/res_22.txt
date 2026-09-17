@@ -1,0 +1,14 @@
+Candidate Name: Gabriel Santos
+Pronouns: he/him
+Education: Bachelor from University of Sao Paulo
+Years of Experience: 3
+Contact: gabriel.s@example.com
+
+Professional Summary:
+Full Stack developer with 3 years of experience shipping web apps with React frontend and Python MySQL services.
+
+Key Technical Skills:
+JavaScript, React, Python, HTML, CSS, REST APIs, MySQL
+
+Work Experience:
+- Full Stack Engineer at BrasilTech (3 years)

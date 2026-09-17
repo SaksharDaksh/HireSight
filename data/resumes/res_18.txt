@@ -1,0 +1,14 @@
+Candidate Name: Dmitri Ivanov
+Pronouns: he/him
+Education: Bachelor from Saint Petersburg University
+Years of Experience: 4
+Contact: dmitri.i@example.com
+
+Professional Summary:
+ML Engineer with 4 years experience deploying machine learning microservices, training deep networks, and tuning data pipelines.
+
+Key Technical Skills:
+Python, PyTorch, Scikit-Learn, Docker, SQL, Machine Learning, Kubernetes
+
+Work Experience:
+- ML Engineer at DataBridge (4 years)

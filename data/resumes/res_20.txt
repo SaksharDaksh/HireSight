@@ -1,0 +1,14 @@
+Candidate Name: Siddharth Verma
+Pronouns: he/him
+Education: Bachelor from BITS Pilani
+Years of Experience: 3
+Contact: siddharth.v@example.com
+
+Professional Summary:
+Passionate ML engineer with 3 years building predictive APIs with FastAPI, Docker, and Scikit-Learn.
+
+Key Technical Skills:
+Python, PyTorch, Scikit-Learn, Machine Learning, Docker, SQL, FastAPI
+
+Work Experience:
+- ML Software Engineer at SmartCore (3 years)

@@ -1,0 +1,27 @@
+{
+  "id": "res_16",
+  "candidate_name": "Vikram Malhotra",
+  "gender_indicator": "he/him",
+  "years_experience": 5,
+  "degree": "Bachelor",
+  "institution": "IIT Delhi",
+  "email": "vikram.m@example.com",
+  "skills": [
+    "C++",
+    "Data Structures",
+    "Algorithms",
+    "Multithreading",
+    "Linux",
+    "Memory Management",
+    "Python"
+  ],
+  "summary": "Systems engineer with 5 years developing ultra-fast multithreaded engines in modern C++ and Linux kernel optimizations.",
+  "past_roles": [
+    {
+      "title": "Systems Developer",
+      "company": "QuantSpeed",
+      "duration_years": 5
+    }
+  ],
+  "target_role": "C++ High Performance Systems Engineer"
+}

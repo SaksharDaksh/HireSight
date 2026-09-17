@@ -1,0 +1,29 @@
+{
+  "id": "res_12",
+  "candidate_name": "Zainab Khan",
+  "gender_indicator": "she/her",
+  "years_experience": 6,
+  "degree": "Master",
+  "institution": "National University of Sciences",
+  "email": "zainab.k@example.com",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Scikit-Learn",
+    "XGBoost",
+    "SHAP",
+    "Pandas",
+    "SQL",
+    "SMOTE",
+    "EDA"
+  ],
+  "summary": "Senior Data Scientist with 6 years applying tree-based ensembles, SHAP interpretability, and SMOTE resampling on tabular datasets.",
+  "past_roles": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "HealthMetrics",
+      "duration_years": 6
+    }
+  ],
+  "target_role": "Lead Data Scientist"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "res_26",
+  "candidate_name": "Marcus Aurelius Vance",
+  "gender_indicator": "he/him",
+  "years_experience": 4,
+  "degree": "Bachelor",
+  "institution": "Yale University",
+  "email": "marcus.vance@example.com",
+  "skills": [
+    "C++",
+    "Data Structures",
+    "Algorithms",
+    "Multithreading",
+    "Linux"
+  ],
+  "summary": "Yale graduate with 4 years building concurrent C++ services and high-throughput network data structures.",
+  "past_roles": [
+    {
+      "title": "C++ Engineer",
+      "company": "Nexus Quant",
+      "duration_years": 4
+    }
+  ],
+  "target_role": "C++ High Performance Systems Engineer"
+}

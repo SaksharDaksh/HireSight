@@ -1,0 +1,14 @@
+Candidate Name: James Henderson
+Pronouns: he/him
+Education: Bachelor from Harvard University
+Years of Experience: 7
+Contact: j.henderson@example.com
+
+Professional Summary:
+Harvard alumnus with 7 years of backend development using Python, Flask, and PostgreSQL for enterprise banking platforms.
+
+Key Technical Skills:
+Python, Flask, PostgreSQL, REST APIs, Redis, Microservices, System Design
+
+Work Experience:
+- Senior Systems Engineer at Apex Financial (7 years)

@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HireSight — Explainable & Fairness-Aware Resume Matcher</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <!-- Top Header -->
+    <header class="app-header">
+        <div class="header-container">
+            <div class="brand">
+                <div class="brand-logo">
+                    <i class="fa-solid fa-crosshairs"></i>
+                </div>
+                <div>
+                    <h1 class="brand-name">HireSight</h1>
+                    <p class="brand-tagline">Fairness-Aware Resume &amp; Job Description Matcher</p>
+                </div>
+            </div>
+
+            <div class="header-actions">
+                <!-- Mode Selector Switch -->
+                <div class="mode-switch-wrapper">
+                    <button id="btn-recruiter-mode" class="mode-pill active" onclick="setAppMode('recruiter')">
+                        <i class="fa-solid fa-briefcase"></i> Recruiter Mode
+                    </button>
+                    <button id="btn-candidate-mode" class="mode-pill" onclick="setAppMode('candidate')">
+                        <i class="fa-solid fa-user"></i> Candidate Mode
+                    </button>
+                </div>
+
+                <!-- Dark Mode Toggle Button -->
+                <button id="theme-toggle-btn" class="theme-toggle-btn" onclick="toggleTheme()" title="Toggle Dark / Light Mode" aria-label="Toggle Dark Mode">
+                    <i id="theme-icon" class="fa-solid fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <div class="main-layout">
+
+        <!-- ============================================================ -->
+        <!-- RECRUITER MODE PANEL -->
+        <!-- ============================================================ -->
+        <section id="section-recruiter" class="mode-section active">
+            <!-- Top Controls Card -->
+            <div class="controls-card">
+                <div class="card-grid">
+                    
+                    <!-- Left: Job Description Input -->
+                    <div class="grid-col-jd">
+                        <div class="col-header">
+                            <label class="col-title"><i class="fa-solid fa-file-invoice"></i> Target Job Description</label>
+                            <span class="helper-text">Paste the job description or upload a document (PDF / TXT)</span>
+                        </div>
+
+                        <div class="custom-text-wrapper">
+                            <textarea id="recruiter-jd-text" class="input-textarea" rows="6" placeholder="Paste the full job description text here..."></textarea>
+                        </div>
+
+                        <div class="upload-inline">
+                            <span class="upload-label"><i class="fa-solid fa-file-arrow-up"></i> Or upload JD document:</span>
+                            <input type="file" id="recruiter-jd-file" accept=".txt,.pdf" onchange="handleJdFileUpload(event)">
+                        </div>
+
+                        <!-- Candidate Resumes Pool -->
+                        <div class="candidate-upload-section">
+                            <div class="col-header" style="margin-top: 18px; margin-bottom: 8px;">
+                                <div style="display: flex; justify-content: space-between; align-items: center;">
+                                    <label class="col-title"><i class="fa-solid fa-users"></i> Candidate Resumes to Screen</label>
+                                    <button class="btn-text-sm" onclick="clearRecruiterPool()" id="btn-clear-recruiter-pool" style="display:none;">Clear All</button>
+                                </div>
+                                <span class="helper-text" id="recruiter-pool-count">0 candidates in screening pool</span>
+                            </div>
+
+                            <div class="upload-box-dashed">
+                                <i class="fa-solid fa-cloud-arrow-up upload-icon"></i>
+                                <p><strong>Upload Candidate Resumes</strong> (Select one or multiple PDF / TXT files)</p>
+                                <input type="file" id="upload-resumes-input" multiple accept=".pdf,.txt" onchange="handleBatchResumeUpload(event)">
+                            </div>
+
+                            <div id="recruiter-pool-list" class="uploaded-files-list"></div>
+                        </div>
+                    </div>
+
+                    <!-- Right: Weights Priority Sliders & Bias Mitigation Toggle -->
+                    <div class="grid-col-settings">
+                        <div class="col-header">
+                            <label class="col-title"><i class="fa-solid fa-sliders"></i> Match Scoring Priorities</label>
+                            <span class="helper-text">Set the importance level for each evaluation dimension (no percentage math needed)</span>
+                        </div>
+
+                        <div class="sliders-list">
+                            <!-- Semantic Match Priority -->
+                            <div class="slider-item">
+                                <div class="slider-header">
+                                    <span>Semantic Context Match</span>
+                                    <strong id="label-w-semantic" class="priority-badge p-med">Balanced</strong>
+                                </div>
+                                <input type="range" id="slider-w-semantic" min="1" max="4" step="1" value="2" oninput="onSteppedSliderInput('semantic')">
+                                <div class="stepped-labels">
+                                    <span>Low</span><span>Balanced</span><span>High</span><span>Critical</span>
+                                </div>
+                            </div>
+
+                            <!-- Skill Overlap Priority -->
+                            <div class="slider-item">
+                                <div class="slider-header">
+                                    <span>Required Skill Overlap</span>
+                                    <strong id="label-w-skills" class="priority-badge p-high">High Priority</strong>
+                                </div>
+                                <input type="range" id="slider-w-skills" min="1" max="4" step="1" value="3" oninput="onSteppedSliderInput('skills')">
+                                <div class="stepped-labels">
+                                    <span>Low</span><span>Balanced</span><span>High</span><span>Critical</span>
+                                </div>
+                            </div>
+
+                            <!-- Experience Tenure Priority -->
+                            <div class="slider-item">
+                                <div class="slider-header">
+                                    <span>Experience Tenure Match</span>
+                                    <strong id="label-w-exp" class="priority-badge p-low">Low Priority</strong>
+                                </div>
+                                <input type="range" id="slider-w-exp" min="1" max="4" step="1" value="1" oninput="onSteppedSliderInput('exp')">
+                                <div class="stepped-labels">
+                                    <span>Low</span><span>Balanced</span><span>High</span><span>Critical</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Bias Mitigation Toggle Box -->
+                        <div class="bias-toggle-box">
+                            <div class="bias-text">
+                                <div class="bias-title">
+                                    <i class="fa-solid fa-shield-halved"></i> Demographic Bias Mitigation
+                                    <span id="bias-pill-state" class="bias-indicator off">OFF</span>
+                                </div>
+                                <p class="bias-desc">Strips candidate names, gendered pronouns, age indicators, and prestige university brand proxies to rank purely on verified skills and experience.</p>
+                            </div>
+                            <label class="toggle-switch">
+                                <input type="checkbox" id="toggle-bias-mitigation" onchange="onBiasToggleChange()">
+                                <span class="toggle-slider"></span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Match Action Button -->
+                <div class="action-footer">
+                    <button id="btn-run-match" class="btn-match" onclick="triggerRecruiterMatch()">
+                        <i class="fa-solid fa-bolt"></i> Match &amp; Rank Candidates
+                    </button>
+                </div>
+            </div>
+
+            <!-- Results Section: Ranked Table -->
+            <div class="results-card">
+                <div class="results-header-bar">
+                    <div>
+                        <h2 class="results-title"><i class="fa-solid fa-list-ol"></i> Ranked Candidates</h2>
+                        <p class="results-sub" id="results-sub-text">Upload candidate resumes above, paste a job description, and click "Match &amp; Rank Candidates".</p>
+                    </div>
+                    <div id="bias-banner-alert" class="bias-banner-alert hidden">
+                        <i class="fa-solid fa-circle-check"></i> Bias Mitigation Active: Demographic and prestige school signals redacted.
+                    </div>
+                </div>
+
+                <!-- Table -->
+                <div class="table-container">
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th style="width: 80px;">Rank</th>
+                                <th style="width: 220px;">Candidate</th>
+                                <th style="width: 140px;">Fit Score</th>
+                                <th>Top Matched Skills</th>
+                                <th>Top Missing Skills</th>
+                                <th style="width: 150px;">Confidence</th>
+                                <th style="width: 80px; text-align: center;">Details</th>
+                            </tr>
+                        </thead>
+                        <tbody id="recruiter-table-body">
+                            <tr>
+                                <td colspan="7" class="empty-state">
+                                    <i class="fa-solid fa-arrow-up"></i> Upload candidate resumes above, paste a Job Description, and click "Match &amp; Rank Candidates"
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ============================================================ -->
+        <!-- CANDIDATE MODE PANEL -->
+        <!-- ============================================================ -->
+        <section id="section-candidate" class="mode-section">
+            <div class="controls-card">
+                <div class="card-grid">
+                    <!-- Left: Candidate Resume Input -->
+                    <div class="grid-col-jd">
+                        <div class="col-header">
+                            <label class="col-title"><i class="fa-solid fa-user-tie"></i> Your Resume</label>
+                            <span class="helper-text">Paste your resume text or upload your document (PDF / TXT)</span>
+                        </div>
+
+                        <div class="custom-text-wrapper">
+                            <textarea id="candidate-resume-text" class="input-textarea" rows="7" placeholder="Paste your resume text here..."></textarea>
+                        </div>
+
+                        <div class="upload-inline">
+                            <span class="upload-label"><i class="fa-solid fa-file-arrow-up"></i> Or upload resume:</span>
+                            <input type="file" id="candidate-resume-file" accept=".txt,.pdf" onchange="handleCandidateResumeFile(event)">
+                        </div>
+                    </div>
+
+                    <!-- Right: User-Controlled Target Jobs Pool -->
+                    <div class="grid-col-settings">
+                        <div class="col-header">
+                            <div style="display: flex; justify-content: space-between; align-items: center;">
+                                <label class="col-title"><i class="fa-solid fa-briefcase"></i> Target Jobs to Compare Against</label>
+                                <button class="btn-text-sm" onclick="clearCandidateJobs()" id="btn-clear-candidate-jobs" style="display:none;">Clear All</button>
+                            </div>
+                            <span class="helper-text" id="candidate-jobs-count">0 job descriptions added to pool</span>
+                        </div>
+
+                        <!-- Add Job Options -->
+                        <div class="target-jobs-upload-box">
+                            <div class="upload-box-dashed">
+                                <i class="fa-solid fa-cloud-arrow-up upload-icon"></i>
+                                <p><strong>Upload Job Descriptions</strong> (PDF or TXT files)</p>
+                                <input type="file" id="candidate-jobs-file-input" multiple accept=".pdf,.txt" onchange="handleCandidateJobFilesUpload(event)">
+                            </div>
+
+                            <!-- Or quick paste a single job -->
+                            <details class="paste-job-details">
+                                <summary><i class="fa-solid fa-plus"></i> Or manually paste a job description</summary>
+                                <div class="paste-job-form">
+                                    <input type="text" id="cand-job-title-input" class="input-text-sm" placeholder="Job Title (e.g. Senior Python Developer)">
+                                    <textarea id="cand-job-desc-input" class="input-textarea" rows="3" placeholder="Paste job requirements / description..."></textarea>
+                                    <button class="btn btn-sm btn-secondary" onclick="addCandidateJobFromPaste()">
+                                        <i class="fa-solid fa-plus"></i> Add Job to Pool
+                                    </button>
+                                </div>
+                            </details>
+
+                            <!-- Pre-load demo helper button -->
+                            <div style="margin-top: 8px; text-align: right;">
+                                <button class="btn-text-sm" onclick="loadSampleTechJobs()">
+                                    <i class="fa-solid fa-wand-magic-sparkles"></i> Quick-load 4 sample tech jobs
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- List of Target Jobs -->
+                        <div id="candidate-jobs-list" class="uploaded-files-list"></div>
+                    </div>
+                </div>
+
+                <!-- Match Action Button -->
+                <div class="action-footer">
+                    <button id="btn-run-candidate-match" class="btn-match" onclick="triggerCandidateMatch()">
+                        <i class="fa-solid fa-magnifying-glass"></i> Match Against Target Jobs
+                    </button>
+                </div>
+            </div>
+
+            <!-- Results Section: Ranked Jobs Table -->
+            <div class="results-card">
+                <div class="results-header-bar">
+                    <div>
+                        <h2 class="results-title"><i class="fa-solid fa-briefcase"></i> Matching Job Opportunities</h2>
+                        <p class="results-sub" id="candidate-results-sub-text">Click any role to reveal why you fit, your missing skills, and your personalized improvement roadmap.</p>
+                    </div>
+                </div>
+
+                <div class="table-container">
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th style="width: 80px;">Rank</th>
+                                <th style="width: 240px;">Position &amp; Company</th>
+                                <th style="width: 140px;">Fit Score</th>
+                                <th>Skills You Have</th>
+                                <th>Skills You Need</th>
+                                <th style="width: 150px;">Confidence</th>
+                                <th style="width: 80px; text-align: center;">Details</th>
+                            </tr>
+                        </thead>
+                        <tbody id="candidate-table-body">
+                            <tr>
+                                <td colspan="7" class="empty-state">
+                                    <i class="fa-solid fa-arrow-up"></i> Provide your resume, add target jobs to your pool, and click "Match Against Target Jobs"
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast hidden"></div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

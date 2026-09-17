@@ -1,0 +1,25 @@
+{
+  "id": "jd_04_fullstack_dev",
+  "title": "Full Stack Engineer",
+  "company": "CloudSprint Tech",
+  "department": "Product Engineering",
+  "min_years_experience": 3,
+  "degree_required": "Bachelor",
+  "required_skills": [
+    "JavaScript",
+    "React",
+    "Python",
+    "HTML",
+    "CSS",
+    "REST APIs",
+    "MySQL"
+  ],
+  "preferred_skills": [
+    "TypeScript",
+    "Docker",
+    "Next.js",
+    "Node.js",
+    "GraphQL"
+  ],
+  "description": "Looking for a dynamic Full Stack Engineer capable of working across responsive frontend interfaces and scalable backend services. Must possess 3+ years of experience with React, HTML5, CSS3, JavaScript, Python backend APIs, and MySQL relational databases."
+}

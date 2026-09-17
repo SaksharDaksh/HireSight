@@ -1,0 +1,23 @@
+{
+  "id": "jd_09_database_admin",
+  "title": "Database Engineer / MySQL Administrator",
+  "company": "Enterprise Data Hub",
+  "department": "Database Systems",
+  "min_years_experience": 4,
+  "degree_required": "Bachelor",
+  "required_skills": [
+    "MySQL",
+    "SQL",
+    "Database Optimization",
+    "Indexing",
+    "Backup & Recovery"
+  ],
+  "preferred_skills": [
+    "PostgreSQL",
+    "Replication",
+    "Python",
+    "Linux",
+    "Performance Tuning"
+  ],
+  "description": "Responsible for managing, tuning, and securing mission-critical enterprise MySQL clusters. Requires 4+ years of hands-on database administration, schema design, query optimization, and high availability replication."
+}

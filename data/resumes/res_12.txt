@@ -1,0 +1,14 @@
+Candidate Name: Zainab Khan
+Pronouns: she/her
+Education: Master from National University of Sciences
+Years of Experience: 6
+Contact: zainab.k@example.com
+
+Professional Summary:
+Senior Data Scientist with 6 years applying tree-based ensembles, SHAP interpretability, and SMOTE resampling on tabular datasets.
+
+Key Technical Skills:
+Python, Machine Learning, Scikit-Learn, XGBoost, SHAP, Pandas, SQL, SMOTE, EDA
+
+Work Experience:
+- Senior Data Scientist at HealthMetrics (6 years)

@@ -1,0 +1,26 @@
+{
+  "id": "res_19",
+  "candidate_name": "Chloe Dubois",
+  "gender_indicator": "she/her",
+  "years_experience": 3,
+  "degree": "Bachelor",
+  "institution": "Sorbonne University",
+  "email": "chloe.d@example.com",
+  "skills": [
+    "Python",
+    "Flask",
+    "PostgreSQL",
+    "REST APIs",
+    "Docker",
+    "Redis"
+  ],
+  "summary": "Backend developer with 3 years building clean REST APIs in Flask and Python, with PostgreSQL and Docker.",
+  "past_roles": [
+    {
+      "title": "Backend Dev",
+      "company": "EuroTech",
+      "duration_years": 3
+    }
+  ],
+  "target_role": "Senior Backend Developer"
+}

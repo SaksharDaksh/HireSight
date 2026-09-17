@@ -1,0 +1,14 @@
+Candidate Name: Elena Rostova
+Pronouns: she/her
+Education: Master from Moscow State University
+Years of Experience: 6
+Contact: elena.r@example.com
+
+Professional Summary:
+Senior backend architect with 6 years experience building scalable microservices in Python, Flask, Redis, and PostgreSQL.
+
+Key Technical Skills:
+Python, Flask, PostgreSQL, Redis, Microservices, REST APIs, Kubernetes, Kafka, AWS
+
+Work Experience:
+- Lead Backend Dev at GlobalPayments (6 years)

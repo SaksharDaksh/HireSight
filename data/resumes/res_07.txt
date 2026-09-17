@@ -1,0 +1,14 @@
+Candidate Name: David Kim
+Pronouns: he/him
+Education: Bachelor from UC Berkeley
+Years of Experience: 2
+Contact: david.kim@example.com
+
+Professional Summary:
+Data Analyst with 2 years of experience turning raw e-commerce metrics into high-impact Power BI visuals and exploratory Python scripts.
+
+Key Technical Skills:
+SQL, Power BI, Excel, Python, Data Visualization, EDA, Tableau
+
+Work Experience:
+- Data Analyst at ShopSmart (2 years)

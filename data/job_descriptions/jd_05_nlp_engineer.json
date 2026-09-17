@@ -1,0 +1,24 @@
+{
+  "id": "jd_05_nlp_engineer",
+  "title": "NLP / LLM Research Engineer",
+  "company": "CognitiveGen AI",
+  "department": "Applied Research",
+  "min_years_experience": 4,
+  "degree_required": "Master",
+  "required_skills": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "NLP",
+    "HuggingFace",
+    "RAG"
+  ],
+  "preferred_skills": [
+    "LangChain",
+    "Vector Databases",
+    "Fine-Tuning",
+    "C++",
+    "FastAPI"
+  ],
+  "description": "CognitiveGen AI is pioneering domain-specific generative AI solutions. We need an NLP Engineer with a Master's degree and 4+ years of experience in transformer models, HuggingFace libraries, retrieval-augmented generation (RAG), vector databases, and fine-tuning open-source LLMs."
+}

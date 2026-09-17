@@ -1,0 +1,14 @@
+Candidate Name: Michael Chang
+Pronouns: he/him
+Education: Bachelor from MIT
+Years of Experience: 1
+Contact: michael.chang@example.com
+
+Professional Summary:
+Recent graduate from MIT with 1 year internship experience in Python and PyTorch. Lacks production Docker and SQL experience.
+
+Key Technical Skills:
+Python, PyTorch, Machine Learning
+
+Work Experience:
+- Junior Intern at Startup Labs (1 years)

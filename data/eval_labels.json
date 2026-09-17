@@ -1,0 +1,108 @@
+{
+  "jd_01_ml_engineer": {
+    "top_candidates": [
+      "res_02",
+      "res_01",
+      "res_18",
+      "res_20",
+      "res_30"
+    ],
+    "unqualified": [
+      "res_03",
+      "res_17"
+    ],
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Scikit-Learn",
+      "Docker",
+      "Machine Learning",
+      "SQL"
+    ]
+  },
+  "jd_02_backend_lead": {
+    "top_candidates": [
+      "res_04",
+      "res_05",
+      "res_29"
+    ],
+    "unqualified": [
+      "res_19"
+    ],
+    "required_skills": [
+      "Python",
+      "Flask",
+      "PostgreSQL",
+      "Redis",
+      "Microservices",
+      "REST APIs"
+    ]
+  },
+  "jd_03_data_analyst": {
+    "top_candidates": [
+      "res_06",
+      "res_07",
+      "res_21"
+    ],
+    "unqualified": [
+      "res_17"
+    ],
+    "required_skills": [
+      "SQL",
+      "Power BI",
+      "Excel",
+      "Python",
+      "Data Visualization",
+      "EDA"
+    ]
+  },
+  "jd_04_fullstack_dev": {
+    "top_candidates": [
+      "res_08",
+      "res_22"
+    ],
+    "unqualified": [],
+    "required_skills": [
+      "JavaScript",
+      "React",
+      "Python",
+      "HTML",
+      "CSS",
+      "REST APIs",
+      "MySQL"
+    ]
+  },
+  "jd_05_nlp_engineer": {
+    "top_candidates": [
+      "res_09",
+      "res_10",
+      "res_23"
+    ],
+    "unqualified": [],
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "NLP",
+      "HuggingFace",
+      "RAG"
+    ]
+  },
+  "jd_07_data_scientist": {
+    "top_candidates": [
+      "res_12",
+      "res_13",
+      "res_25"
+    ],
+    "unqualified": [],
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Scikit-Learn",
+      "XGBoost",
+      "SHAP",
+      "Pandas",
+      "SQL"
+    ]
+  }
+}

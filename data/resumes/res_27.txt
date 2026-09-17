@@ -1,0 +1,14 @@
+Candidate Name: Amina Yusuf
+Pronouns: she/her
+Education: Bachelor from University of Nairobi
+Years of Experience: 2
+Contact: amina.y@example.com
+
+Professional Summary:
+Frontend engineer with 2 years crafting modern UI components with React, HTML5, and CSS3 grid/flexbox.
+
+Key Technical Skills:
+JavaScript, HTML, CSS, React, Responsive Design
+
+Work Experience:
+- Frontend Dev at Nairobi Web Studio (2 years)

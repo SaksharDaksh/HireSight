@@ -1,0 +1,14 @@
+Candidate Name: Aarav Sharma
+Pronouns: he/him
+Education: Bachelor from Stanford University
+Years of Experience: 4
+Contact: aarav.sharma@example.com
+
+Professional Summary:
+Experienced ML Engineer with 4 years building deep learning and classical ML models. He graduated from Stanford University.
+
+Key Technical Skills:
+Python, PyTorch, Scikit-Learn, Machine Learning, Docker, SQL, FastAPI, Pandas, XGBoost
+
+Work Experience:
+- ML Engineer at AlphaAI (4 years)

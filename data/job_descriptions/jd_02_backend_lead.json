@@ -1,0 +1,24 @@
+{
+  "id": "jd_02_backend_lead",
+  "title": "Senior Backend Developer",
+  "company": "FinTech Prime",
+  "department": "Core Platform",
+  "min_years_experience": 5,
+  "degree_required": "Bachelor",
+  "required_skills": [
+    "Python",
+    "Flask",
+    "PostgreSQL",
+    "Redis",
+    "Microservices",
+    "REST APIs"
+  ],
+  "preferred_skills": [
+    "Go",
+    "Kubernetes",
+    "Kafka",
+    "AWS",
+    "System Design"
+  ],
+  "description": "FinTech Prime is hiring a Senior Backend Developer with 5+ years of experience in architecting high-throughput distributed systems. Must be proficient in Python, Flask or FastAPI, PostgreSQL database design, Redis caching, and microservices architecture. Experience with message brokers like Kafka and cloud infrastructure on AWS is highly desirable."
+}

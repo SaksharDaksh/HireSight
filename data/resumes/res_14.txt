@@ -1,0 +1,14 @@
+Candidate Name: Mei Lin
+Pronouns: she/her
+Education: Bachelor from Tsinghua University
+Years of Experience: 3
+Contact: mei.lin@example.com
+
+Professional Summary:
+Frontend developer specializing in sleek user interfaces, pixel-perfect responsive layouts, React components, and accessibility.
+
+Key Technical Skills:
+JavaScript, HTML, CSS, React, Responsive Design, Tailwind CSS, Figma
+
+Work Experience:
+- UI Developer at DesignLab (3 years)

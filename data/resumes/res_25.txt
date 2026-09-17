@@ -1,0 +1,14 @@
+Candidate Name: Ananya Chatterjee
+Pronouns: she/her
+Education: Master from Jadavpur University
+Years of Experience: 5
+Contact: ananya.c@example.com
+
+Professional Summary:
+Data Scientist with 5 years developing XGBoost risk models, explaining feature attributions with SHAP, and balancing classes.
+
+Key Technical Skills:
+Python, Machine Learning, Scikit-Learn, XGBoost, SHAP, Pandas, SQL, SMOTE
+
+Work Experience:
+- Data Scientist at FinPulse (5 years)

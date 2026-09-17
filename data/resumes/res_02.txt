@@ -1,0 +1,14 @@
+Candidate Name: Priya Patel
+Pronouns: she/her
+Education: Bachelor from State University of Technology
+Years of Experience: 4
+Contact: priya.patel@example.com
+
+Professional Summary:
+Machine Learning practitioner with 4 years deploying computer vision and predictive models. She specialized in Docker containerization and MLOps.
+
+Key Technical Skills:
+Python, PyTorch, Scikit-Learn, Docker, Machine Learning, SQL, AWS, MLOps
+
+Work Experience:
+- Data Scientist at InnoTech (4 years)

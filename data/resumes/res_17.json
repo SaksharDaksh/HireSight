@@ -1,0 +1,24 @@
+{
+  "id": "res_17",
+  "candidate_name": "Rachel Green",
+  "gender_indicator": "she/her",
+  "years_experience": 1,
+  "degree": "Bachelor",
+  "institution": "NYU",
+  "email": "rachel.g@example.com",
+  "skills": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Data Visualization"
+  ],
+  "summary": "Junior analyst with 1 year experience in SQL and Excel dashboards. Seeking to grow into full BI developer role.",
+  "past_roles": [
+    {
+      "title": "Junior Analyst",
+      "company": "City Analytics",
+      "duration_years": 1
+    }
+  ],
+  "target_role": "Data Analyst (BI & Analytics)"
+}

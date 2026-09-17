@@ -1,0 +1,27 @@
+{
+  "id": "res_07",
+  "candidate_name": "David Kim",
+  "gender_indicator": "he/him",
+  "years_experience": 2,
+  "degree": "Bachelor",
+  "institution": "UC Berkeley",
+  "email": "david.kim@example.com",
+  "skills": [
+    "SQL",
+    "Power BI",
+    "Excel",
+    "Python",
+    "Data Visualization",
+    "EDA",
+    "Tableau"
+  ],
+  "summary": "Data Analyst with 2 years of experience turning raw e-commerce metrics into high-impact Power BI visuals and exploratory Python scripts.",
+  "past_roles": [
+    {
+      "title": "Data Analyst",
+      "company": "ShopSmart",
+      "duration_years": 2
+    }
+  ],
+  "target_role": "Data Analyst (BI & Analytics)"
+}

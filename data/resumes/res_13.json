@@ -1,0 +1,28 @@
+{
+  "id": "res_13",
+  "candidate_name": "Liam O'Connor",
+  "gender_indicator": "he/him",
+  "years_experience": 6,
+  "degree": "PhD",
+  "institution": "Cambridge University",
+  "email": "liam.oc@example.com",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Scikit-Learn",
+    "XGBoost",
+    "SHAP",
+    "Pandas",
+    "SQL",
+    "Deep Learning"
+  ],
+  "summary": "PhD from Cambridge with 6 years experience in statistical predictive modeling, SHAP explainability, and clinical machine learning.",
+  "past_roles": [
+    {
+      "title": "Lead Scientist",
+      "company": "BioPredict",
+      "duration_years": 6
+    }
+  ],
+  "target_role": "Lead Data Scientist"
+}

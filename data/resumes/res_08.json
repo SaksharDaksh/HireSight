@@ -1,0 +1,29 @@
+{
+  "id": "res_08",
+  "candidate_name": "Sophia Martinez",
+  "gender_indicator": "she/her",
+  "years_experience": 4,
+  "degree": "Bachelor",
+  "institution": "University of Texas",
+  "email": "sophia.m@example.com",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Python",
+    "HTML",
+    "CSS",
+    "REST APIs",
+    "MySQL",
+    "TypeScript",
+    "Docker"
+  ],
+  "summary": "Full Stack developer with 4 years creating responsive React frontends and Python RESTful backend services backed by MySQL.",
+  "past_roles": [
+    {
+      "title": "Full Stack Dev",
+      "company": "AppCrafters",
+      "duration_years": 4
+    }
+  ],
+  "target_role": "Full Stack Engineer"
+}

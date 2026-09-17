@@ -1,0 +1,24 @@
+{
+  "id": "jd_06_devops_engineer",
+  "title": "DevOps & Cloud Engineer",
+  "company": "HyperScale Cloud",
+  "department": "Infrastructure",
+  "min_years_experience": 3,
+  "degree_required": "Bachelor",
+  "required_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CI/CD",
+    "Linux"
+  ],
+  "preferred_skills": [
+    "Ansible",
+    "Prometheus",
+    "Python",
+    "Bash",
+    "Security"
+  ],
+  "description": "Seeking an infrastructure specialist to automate deployment pipelines, manage Kubernetes clusters, and enforce cloud security standards across AWS. At least 3 years experience with Terraform, Docker, and CI/CD pipelines."
+}

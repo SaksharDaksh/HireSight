@@ -1,0 +1,27 @@
+{
+  "baseline_without_smote": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0
+  },
+  "with_smote_balanced": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0
+  },
+  "feature_names": [
+    "semantic_similarity",
+    "required_skill_overlap",
+    "preferred_skill_overlap",
+    "skills_count",
+    "candidate_exp_years",
+    "required_exp_years",
+    "experience_delta",
+    "hard_constraint_met",
+    "degree_requirement_met"
+  ]
+}

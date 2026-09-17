@@ -1,0 +1,14 @@
+Candidate Name: Ananya Sen
+Pronouns: she/her
+Education: Master from IIT Kharagpur
+Years of Experience: 4
+Contact: ananya.sen@example.com
+
+Professional Summary:
+Research engineer with 4 years experience building enterprise RAG systems, C++ inference modules, and transformer models.
+
+Key Technical Skills:
+Python, PyTorch, Transformers, NLP, HuggingFace, RAG, C++, FastAPI
+
+Work Experience:
+- AI Engineer at NeuroNet (4 years)

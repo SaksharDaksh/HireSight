@@ -1,0 +1,27 @@
+{
+  "id": "res_18",
+  "candidate_name": "Dmitri Ivanov",
+  "gender_indicator": "he/him",
+  "years_experience": 4,
+  "degree": "Bachelor",
+  "institution": "Saint Petersburg University",
+  "email": "dmitri.i@example.com",
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Scikit-Learn",
+    "Docker",
+    "SQL",
+    "Machine Learning",
+    "Kubernetes"
+  ],
+  "summary": "ML Engineer with 4 years experience deploying machine learning microservices, training deep networks, and tuning data pipelines.",
+  "past_roles": [
+    {
+      "title": "ML Engineer",
+      "company": "DataBridge",
+      "duration_years": 4
+    }
+  ],
+  "target_role": "Machine Learning Engineer"
+}

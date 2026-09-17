@@ -1,0 +1,28 @@
+{
+  "id": "res_06",
+  "candidate_name": "Fatima Al-Mansoor",
+  "gender_indicator": "she/her",
+  "years_experience": 3,
+  "degree": "Bachelor",
+  "institution": "Cairo University",
+  "email": "fatima.m@example.com",
+  "skills": [
+    "SQL",
+    "Power BI",
+    "Excel",
+    "Python",
+    "Data Visualization",
+    "EDA",
+    "DAX",
+    "Pandas"
+  ],
+  "summary": "Business Intelligence analyst with 3 years expertise in Power BI dashboards, complex DAX formulas, SQL data warehousing, and Excel.",
+  "past_roles": [
+    {
+      "title": "BI Specialist",
+      "company": "Logistics Corp",
+      "duration_years": 3
+    }
+  ],
+  "target_role": "Data Analyst (BI & Analytics)"
+}

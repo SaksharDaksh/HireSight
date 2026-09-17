@@ -1,0 +1,26 @@
+{
+  "id": "res_30",
+  "candidate_name": "Alex Taylor",
+  "gender_indicator": "they/them",
+  "years_experience": 3,
+  "degree": "Bachelor",
+  "institution": "University of Washington",
+  "email": "alex.taylor@example.com",
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Scikit-Learn",
+    "Docker",
+    "Machine Learning",
+    "SQL"
+  ],
+  "summary": "ML Engineer with 3 years building predictive models, training pipelines, and microservice containers in Docker.",
+  "past_roles": [
+    {
+      "title": "ML Engineer",
+      "company": "VectorTech",
+      "duration_years": 3
+    }
+  ],
+  "target_role": "Machine Learning Engineer"
+}

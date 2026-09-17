@@ -1,0 +1,25 @@
+{
+  "id": "res_27",
+  "candidate_name": "Amina Yusuf",
+  "gender_indicator": "she/her",
+  "years_experience": 2,
+  "degree": "Bachelor",
+  "institution": "University of Nairobi",
+  "email": "amina.y@example.com",
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Responsive Design"
+  ],
+  "summary": "Frontend engineer with 2 years crafting modern UI components with React, HTML5, and CSS3 grid/flexbox.",
+  "past_roles": [
+    {
+      "title": "Frontend Dev",
+      "company": "Nairobi Web Studio",
+      "duration_years": 2
+    }
+  ],
+  "target_role": "Frontend UI/UX Developer"
+}

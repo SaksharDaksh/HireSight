@@ -1,0 +1,27 @@
+{
+  "id": "res_20",
+  "candidate_name": "Siddharth Verma",
+  "gender_indicator": "he/him",
+  "years_experience": 3,
+  "degree": "Bachelor",
+  "institution": "BITS Pilani",
+  "email": "siddharth.v@example.com",
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Scikit-Learn",
+    "Machine Learning",
+    "Docker",
+    "SQL",
+    "FastAPI"
+  ],
+  "summary": "Passionate ML engineer with 3 years building predictive APIs with FastAPI, Docker, and Scikit-Learn.",
+  "past_roles": [
+    {
+      "title": "ML Software Engineer",
+      "company": "SmartCore",
+      "duration_years": 3
+    }
+  ],
+  "target_role": "Machine Learning Engineer"
+}

@@ -1,0 +1,14 @@
+Candidate Name: Carlos Gomez
+Pronouns: he/him
+Education: Bachelor from Georgia Tech
+Years of Experience: 4
+Contact: carlos.g@example.com
+
+Professional Summary:
+Cloud DevOps Engineer with 4 years managing multi-region AWS environments, infrastructure-as-code with Terraform, and Kubernetes.
+
+Key Technical Skills:
+AWS, Docker, Kubernetes, Terraform, CI/CD, Linux, Ansible, Python
+
+Work Experience:
+- DevOps Engineer at CloudNine (4 years)

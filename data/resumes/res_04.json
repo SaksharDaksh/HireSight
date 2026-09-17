@@ -1,0 +1,29 @@
+{
+  "id": "res_04",
+  "candidate_name": "Elena Rostova",
+  "gender_indicator": "she/her",
+  "years_experience": 6,
+  "degree": "Master",
+  "institution": "Moscow State University",
+  "email": "elena.r@example.com",
+  "skills": [
+    "Python",
+    "Flask",
+    "PostgreSQL",
+    "Redis",
+    "Microservices",
+    "REST APIs",
+    "Kubernetes",
+    "Kafka",
+    "AWS"
+  ],
+  "summary": "Senior backend architect with 6 years experience building scalable microservices in Python, Flask, Redis, and PostgreSQL.",
+  "past_roles": [
+    {
+      "title": "Lead Backend Dev",
+      "company": "GlobalPayments",
+      "duration_years": 6
+    }
+  ],
+  "target_role": "Senior Backend Developer"
+}

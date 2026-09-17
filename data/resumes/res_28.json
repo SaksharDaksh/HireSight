@@ -1,0 +1,26 @@
+{
+  "id": "res_28",
+  "candidate_name": "Ben Johnson",
+  "gender_indicator": "he/him",
+  "years_experience": 5,
+  "degree": "Bachelor",
+  "institution": "Community College of Tech",
+  "email": "ben.j@example.com",
+  "skills": [
+    "MySQL",
+    "SQL",
+    "Database Optimization",
+    "Indexing",
+    "Backup & Recovery",
+    "Python"
+  ],
+  "summary": "Self-driven database specialist with 5 years managing MySQL instances, performance tuning indexes, and query refactoring.",
+  "past_roles": [
+    {
+      "title": "Database Admin",
+      "company": "OmniServer",
+      "duration_years": 5
+    }
+  ],
+  "target_role": "Database Engineer / MySQL Administrator"
+}

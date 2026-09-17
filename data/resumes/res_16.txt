@@ -1,0 +1,14 @@
+Candidate Name: Vikram Malhotra
+Pronouns: he/him
+Education: Bachelor from IIT Delhi
+Years of Experience: 5
+Contact: vikram.m@example.com
+
+Professional Summary:
+Systems engineer with 5 years developing ultra-fast multithreaded engines in modern C++ and Linux kernel optimizations.
+
+Key Technical Skills:
+C++, Data Structures, Algorithms, Multithreading, Linux, Memory Management, Python
+
+Work Experience:
+- Systems Developer at QuantSpeed (5 years)

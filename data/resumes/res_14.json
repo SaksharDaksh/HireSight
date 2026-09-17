@@ -1,0 +1,27 @@
+{
+  "id": "res_14",
+  "candidate_name": "Mei Lin",
+  "gender_indicator": "she/her",
+  "years_experience": 3,
+  "degree": "Bachelor",
+  "institution": "Tsinghua University",
+  "email": "mei.lin@example.com",
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Responsive Design",
+    "Tailwind CSS",
+    "Figma"
+  ],
+  "summary": "Frontend developer specializing in sleek user interfaces, pixel-perfect responsive layouts, React components, and accessibility.",
+  "past_roles": [
+    {
+      "title": "UI Developer",
+      "company": "DesignLab",
+      "duration_years": 3
+    }
+  ],
+  "target_role": "Frontend UI/UX Developer"
+}

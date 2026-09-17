@@ -1,0 +1,14 @@
+Candidate Name: Liam O'Connor
+Pronouns: he/him
+Education: PhD from Cambridge University
+Years of Experience: 6
+Contact: liam.oc@example.com
+
+Professional Summary:
+PhD from Cambridge with 6 years experience in statistical predictive modeling, SHAP explainability, and clinical machine learning.
+
+Key Technical Skills:
+Python, Machine Learning, Scikit-Learn, XGBoost, SHAP, Pandas, SQL, Deep Learning
+
+Work Experience:
+- Lead Scientist at BioPredict (6 years)

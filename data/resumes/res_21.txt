@@ -1,0 +1,14 @@
+Candidate Name: Hana Takahashi
+Pronouns: she/her
+Education: Bachelor from University of Tokyo
+Years of Experience: 4
+Contact: hana.t@example.com
+
+Professional Summary:
+Data Analyst with 4 years designing executive Power BI dashboards, automated SQL reports, and exploratory statistical analysis.
+
+Key Technical Skills:
+SQL, Power BI, Excel, Python, Data Visualization, EDA, DAX
+
+Work Experience:
+- Lead BI Analyst at Tokyo Data Co (4 years)

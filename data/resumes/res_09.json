@@ -1,0 +1,28 @@
+{
+  "id": "res_09",
+  "candidate_name": "Kwame Mensah",
+  "gender_indicator": "he/him",
+  "years_experience": 5,
+  "degree": "Master",
+  "institution": "Oxford University",
+  "email": "kwame.m@example.com",
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "NLP",
+    "HuggingFace",
+    "RAG",
+    "Vector Databases",
+    "FastAPI"
+  ],
+  "summary": "Oxford graduate with 5 years leading NLP research and LLM fine-tuning pipelines. Deep expertise in RAG and vector retrieval.",
+  "past_roles": [
+    {
+      "title": "NLP Scientist",
+      "company": "LexiCore",
+      "duration_years": 5
+    }
+  ],
+  "target_role": "NLP / LLM Research Engineer"
+}

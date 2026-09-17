@@ -1,0 +1,14 @@
+Candidate Name: Chloe Dubois
+Pronouns: she/her
+Education: Bachelor from Sorbonne University
+Years of Experience: 3
+Contact: chloe.d@example.com
+
+Professional Summary:
+Backend developer with 3 years building clean REST APIs in Flask and Python, with PostgreSQL and Docker.
+
+Key Technical Skills:
+Python, Flask, PostgreSQL, REST APIs, Docker, Redis
+
+Work Experience:
+- Backend Dev at EuroTech (3 years)

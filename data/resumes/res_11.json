@@ -1,0 +1,28 @@
+{
+  "id": "res_11",
+  "candidate_name": "Carlos Gomez",
+  "gender_indicator": "he/him",
+  "years_experience": 4,
+  "degree": "Bachelor",
+  "institution": "Georgia Tech",
+  "email": "carlos.g@example.com",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "CI/CD",
+    "Linux",
+    "Ansible",
+    "Python"
+  ],
+  "summary": "Cloud DevOps Engineer with 4 years managing multi-region AWS environments, infrastructure-as-code with Terraform, and Kubernetes.",
+  "past_roles": [
+    {
+      "title": "DevOps Engineer",
+      "company": "CloudNine",
+      "duration_years": 4
+    }
+  ],
+  "target_role": "DevOps & Cloud Engineer"
+}

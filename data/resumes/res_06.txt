@@ -1,0 +1,14 @@
+Candidate Name: Fatima Al-Mansoor
+Pronouns: she/her
+Education: Bachelor from Cairo University
+Years of Experience: 3
+Contact: fatima.m@example.com
+
+Professional Summary:
+Business Intelligence analyst with 3 years expertise in Power BI dashboards, complex DAX formulas, SQL data warehousing, and Excel.
+
+Key Technical Skills:
+SQL, Power BI, Excel, Python, Data Visualization, EDA, DAX, Pandas
+
+Work Experience:
+- BI Specialist at Logistics Corp (3 years)

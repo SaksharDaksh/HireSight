@@ -1,0 +1,14 @@
+Candidate Name: Tariq Washington
+Pronouns: he/him
+Education: Bachelor from Howard University
+Years of Experience: 5
+Contact: tariq.w@example.com
+
+Professional Summary:
+Database Administrator with 5 years managing mission-critical MySQL and relational databases, performance tuning, and high availability.
+
+Key Technical Skills:
+MySQL, SQL, Database Optimization, Indexing, Backup & Recovery, PostgreSQL, Linux
+
+Work Experience:
+- DBA at DataSafe Corp (5 years)

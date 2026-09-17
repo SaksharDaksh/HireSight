@@ -1,0 +1,14 @@
+Candidate Name: Marcus Aurelius Vance
+Pronouns: he/him
+Education: Bachelor from Yale University
+Years of Experience: 4
+Contact: marcus.vance@example.com
+
+Professional Summary:
+Yale graduate with 4 years building concurrent C++ services and high-throughput network data structures.
+
+Key Technical Skills:
+C++, Data Structures, Algorithms, Multithreading, Linux
+
+Work Experience:
+- C++ Engineer at Nexus Quant (4 years)

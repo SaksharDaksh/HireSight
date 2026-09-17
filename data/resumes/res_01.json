@@ -1,0 +1,29 @@
+{
+  "id": "res_01",
+  "candidate_name": "Aarav Sharma",
+  "gender_indicator": "he/him",
+  "years_experience": 4,
+  "degree": "Bachelor",
+  "institution": "Stanford University",
+  "email": "aarav.sharma@example.com",
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Scikit-Learn",
+    "Machine Learning",
+    "Docker",
+    "SQL",
+    "FastAPI",
+    "Pandas",
+    "XGBoost"
+  ],
+  "summary": "Experienced ML Engineer with 4 years building deep learning and classical ML models. He graduated from Stanford University.",
+  "past_roles": [
+    {
+      "title": "ML Engineer",
+      "company": "AlphaAI",
+      "duration_years": 4
+    }
+  ],
+  "target_role": "Machine Learning Engineer"
+}

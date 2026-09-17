@@ -1,0 +1,24 @@
+{
+  "id": "jd_01_ml_engineer",
+  "title": "Machine Learning Engineer",
+  "company": "Nexus AI Labs",
+  "department": "AI & Data",
+  "min_years_experience": 3,
+  "degree_required": "Bachelor",
+  "required_skills": [
+    "Python",
+    "PyTorch",
+    "Scikit-Learn",
+    "Docker",
+    "Machine Learning",
+    "SQL"
+  ],
+  "preferred_skills": [
+    "MLOps",
+    "Kubernetes",
+    "AWS",
+    "XGBoost",
+    "FastAPI"
+  ],
+  "description": "We are seeking an experienced Machine Learning Engineer to design, build, and deploy production ML systems. The ideal candidate must have at least 3 years of hands-on experience developing ML models using Python, PyTorch, and Scikit-Learn, with strong SQL skills and containerization using Docker. Experience with MLOps pipelines and AWS is a plus."
+}

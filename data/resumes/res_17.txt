@@ -1,0 +1,14 @@
+Candidate Name: Rachel Green
+Pronouns: she/her
+Education: Bachelor from NYU
+Years of Experience: 1
+Contact: rachel.g@example.com
+
+Professional Summary:
+Junior analyst with 1 year experience in SQL and Excel dashboards. Seeking to grow into full BI developer role.
+
+Key Technical Skills:
+Python, SQL, Excel, Data Visualization
+
+Work Experience:
+- Junior Analyst at City Analytics (1 years)

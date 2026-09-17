@@ -1,0 +1,27 @@
+{
+  "id": "res_15",
+  "candidate_name": "Tariq Washington",
+  "gender_indicator": "he/him",
+  "years_experience": 5,
+  "degree": "Bachelor",
+  "institution": "Howard University",
+  "email": "tariq.w@example.com",
+  "skills": [
+    "MySQL",
+    "SQL",
+    "Database Optimization",
+    "Indexing",
+    "Backup & Recovery",
+    "PostgreSQL",
+    "Linux"
+  ],
+  "summary": "Database Administrator with 5 years managing mission-critical MySQL and relational databases, performance tuning, and high availability.",
+  "past_roles": [
+    {
+      "title": "DBA",
+      "company": "DataSafe Corp",
+      "duration_years": 5
+    }
+  ],
+  "target_role": "Database Engineer / MySQL Administrator"
+}

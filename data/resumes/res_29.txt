@@ -1,0 +1,14 @@
+Candidate Name: Kavita Rao
+Pronouns: she/her
+Education: Master from National Institute of Tech
+Years of Experience: 5
+Contact: kavita.rao@example.com
+
+Professional Summary:
+Backend specialist with 5 years developing REST APIs in Python/Flask with Redis caching and PostgreSQL persistence.
+
+Key Technical Skills:
+Python, Flask, PostgreSQL, Redis, Microservices, REST APIs, AWS
+
+Work Experience:
+- Backend Architect at ZetaCore (5 years)

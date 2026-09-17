@@ -1,0 +1,28 @@
+{
+  "id": "res_10",
+  "candidate_name": "Ananya Sen",
+  "gender_indicator": "she/her",
+  "years_experience": 4,
+  "degree": "Master",
+  "institution": "IIT Kharagpur",
+  "email": "ananya.sen@example.com",
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "NLP",
+    "HuggingFace",
+    "RAG",
+    "C++",
+    "FastAPI"
+  ],
+  "summary": "Research engineer with 4 years experience building enterprise RAG systems, C++ inference modules, and transformer models.",
+  "past_roles": [
+    {
+      "title": "AI Engineer",
+      "company": "NeuroNet",
+      "duration_years": 4
+    }
+  ],
+  "target_role": "NLP / LLM Research Engineer"
+}

@@ -1,0 +1,14 @@
+Candidate Name: Sophia Martinez
+Pronouns: she/her
+Education: Bachelor from University of Texas
+Years of Experience: 4
+Contact: sophia.m@example.com
+
+Professional Summary:
+Full Stack developer with 4 years creating responsive React frontends and Python RESTful backend services backed by MySQL.
+
+Key Technical Skills:
+JavaScript, React, Python, HTML, CSS, REST APIs, MySQL, TypeScript, Docker
+
+Work Experience:
+- Full Stack Dev at AppCrafters (4 years)

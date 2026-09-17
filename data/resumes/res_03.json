@@ -1,0 +1,23 @@
+{
+  "id": "res_03",
+  "candidate_name": "Michael Chang",
+  "gender_indicator": "he/him",
+  "years_experience": 1,
+  "degree": "Bachelor",
+  "institution": "MIT",
+  "email": "michael.chang@example.com",
+  "skills": [
+    "Python",
+    "PyTorch",
+    "Machine Learning"
+  ],
+  "summary": "Recent graduate from MIT with 1 year internship experience in Python and PyTorch. Lacks production Docker and SQL experience.",
+  "past_roles": [
+    {
+      "title": "Junior Intern",
+      "company": "Startup Labs",
+      "duration_years": 1
+    }
+  ],
+  "target_role": "Machine Learning Engineer"
+}

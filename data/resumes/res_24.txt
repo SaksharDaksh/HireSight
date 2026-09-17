@@ -1,0 +1,14 @@
+Candidate Name: Lucas Meyer
+Pronouns: he/him
+Education: Bachelor from TU Munich
+Years of Experience: 5
+Contact: lucas.m@example.com
+
+Professional Summary:
+DevOps Engineer with 5 years managing cloud deployments, Terraform infrastructure modules, and container orchestration.
+
+Key Technical Skills:
+AWS, Docker, Kubernetes, Terraform, CI/CD, Linux, Python
+
+Work Experience:
+- Senior DevOps at Bavaria Cloud (5 years)
